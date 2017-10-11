@@ -26,14 +26,12 @@
 var entity = viewer.entities.add({
 	//Cartesian3 representa un punto en el espacio euclidiano
 	//Cesium.Cartesian3.fromDegrees(longitude, latitude, height, ellipsoid, result)
-	position : Cesium.Cartesian3.fromDegrees(-123, 44, 10),
+	position : Cesium.Cartesian3.fromDegrees(-74.12553369998932, 4.712853897354378, 5),
    model : {
-   	uri : 'cono_cubo.gltf',
+   	uri : 'quiz_5figuras.gltf',
       minimumPixelSize : 128
    }
 });
-
-
 
 
 viewer.zoomTo(entity, new Cesium.HeadingPitchRange(Math.PI / 4, -Math.PI / 4, 3));
