@@ -24,9 +24,34 @@ and open the template in the editor.
         var terrain = Cesium.createDefaultTerrainProviderViewModels();
         
         var viewer = new Cesium.Viewer('cesiumContainer', {
+            
             terrainProviderViewModels: terrain,
             selectedTerrainProviderViewModel: terrain[1]
         });
+        
+        
+        
+        
+        var entity = viewer.entities.add({
+	//Cartesian3 representa un punto en el espacio euclidiano
+	//Cesium.Cartesian3.fromDegrees(longitude, latitude, height, ellipsoid, result)
+	position : Cesium.Cartesian3.fromDegrees(-74.12553369998932, 4.712853897354378, 0),
+   model : {
+   	uri : '',
+        scale:1
+     // minimumPixelSize : 128
+   }, 
+   label : {
+            show : false,
+            showBackground : true,
+            font : '14px monospace',
+            //horizontalOrigin : Cesium.HorizontalOrigin.LEFT,
+            //verticalOrigin : Cesium.VerticalOrigin.BASELINE,
+        }
+   
+});
+        
+       
 
         var terrainSamplePositions = [];
         
