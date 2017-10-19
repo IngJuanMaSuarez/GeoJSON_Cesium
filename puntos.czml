@@ -1,0 +1,215 @@
+[{
+    "id" : "document",
+    "name" : "CZML Point - Time Dynamic",
+    "version" : "1.0"
+}, {
+    "id" : "point",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            0, -74.06688451766968, 4.628655597373693, 50,
+            60, -74.06688451766968, 4.628655597373693, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},{
+    "id" : "point2",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "PUNTO2",
+    "description" : "Conocido en el bajo mundo como CAD",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            24, -74.17462348937988, 4.6273616408852565, 50,
+            60,-74.17462348937988, 4.6273616408852565, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point3",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "P3",
+    "description" : "Deriva su nombre del puente de la antigua hacienda de <b>Juan Aranda</b> sobre el <a href='https://es.wikipedia.org/wiki/Puente_Aranda'>río Chinúa</a>, hoy llamado río San Francisco, construida a finales del siglo XVI.<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Avenida_de_Las_Américas%2C_Bogotá.JPG/250px-Avenida_de_Las_Américas%2C_Bogotá.JPG'>",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            12,-74.11533191800117, 4.614901841812937, 50,
+            60,-74.11533191800117, 4.614901841812937, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+{
+    "id" : "point4",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "P4",
+    "description" : "Uno de los pocos que subsisten en la zona",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            6, -74.09726053476334, 4.560941617557987, 50,
+            60, -74.09726053476334, 4.560941617557987, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+
+{
+    "id" : "point5",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "P5",
+    "description" : "Uno de los pocos que subsisten en la zona",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            42, -74.13966357707977, 4.708616956891833, 50,
+            60, -74.13966357707977, 4.708616956891833, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+
+{
+    "id" : "point6",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "P6",
+    "description" : "Uno de los pocos que subsisten en la zona",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            18, -74.17465969920158, 4.61178184498772, 50,
+            60, -74.17465969920158, 4.61178184498772, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+
+{
+    "id" : "point7",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "P7",
+    "description" : "Uno de los pocos que subsisten en la zona",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            30, -74.12136554718018, 4.669558370856502, 50,
+            60, -74.12136554718018, 4.669558370856502, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+
+{
+    "id" : "point8",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "P8",
+    "description" : "Uno de los pocos que subsisten en la zona",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            36, -74.07374409179688, 4.721987958076623, 50,
+            60, -74.07374409179688, 4.721987958076623, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+},
+
+{
+    "id" : "point9",
+    "availability" : "2017-08-04T10:00:00Z/2017-08-04T10:01:00Z",
+    "name" : "P9",
+    "description" : "Uno de los pocos que subsisten en la zona",
+    "position" : {
+        "epoch" : "2017-08-04T10:00:00Z",
+        "cartographicDegrees" : [
+            0, -74.06688451766968, 4.628655597373693, 50,
+            60, -74.06688451766968, 4.628655597373693, 50
+        ]
+    },
+    "point" : {
+        "color" : {
+            "rgba" : [255, 255, 255, 128]
+        },
+        "outlineColor" : {
+            "rgba" : [255, 0, 0, 128]
+        },
+        "outlineWidth" : 3,
+        "pixelSize" : 15
+    }
+}
+
+]

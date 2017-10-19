@@ -158,18 +158,7 @@
             }
 
         }, Cesium.ScreenSpaceEventType.LEFT_CLICK);
-
-
-        //Ability to look up the Model associated with an entity
-        function getModelForEntity(entity_uno) {
-            var primitives = viewer.scene.primitives;
-            for (var i = 0; i < primitives.length; i++) {
-                var primitive = primitives.get(i);
-                if (primitive instanceof Cesium.Model && primitive.id === entity_uno) {
-                    return primitive;
-                }
-            }
-        };
+     
         </script>
     </body>
 </html>
